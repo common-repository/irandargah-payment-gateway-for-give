@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: پرداخت آنلاین ایران درگاه برای Give\n"
+"POT-Creation-Date: 2022-08-19 00:42+0430\n"
+"PO-Revision-Date: 2022-08-19 00:45+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: irandargah-for-give.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: irandargah-for-give.php:34
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: irandargah-for-give.php:35
+msgid "Docs"
+msgstr "مستندات"
+
+#. Author of the plugin/theme
+#: irandargah-for-give.php:68 irandargah-for-give.php:69
+#: irandargah-for-give.php:120
+msgid "Iran Dargah"
+msgstr "ایران درگاه"
+
+#: irandargah-for-give.php:95
+msgid "Make your donation quickly and securely with IranDargah"
+msgstr "پرداخت خود را به شکل سریع و امن با ایران درگاه انجام دهید"
+
+#: irandargah-for-give.php:96
+msgid "How it works:"
+msgstr "به چه شکل کار می‌کند:"
+
+#: irandargah-for-give.php:98
+msgid ""
+"You will be redirected to IranDargah to complete your donation with your "
+"debit card account. Once complete, you will be redirected back to this site "
+"to view your receipt."
+msgstr ""
+"شما از طریق ایران درگاه به صفحه پرداخت هدایت شده تا پرداخت خود را انجام "
+"دهید. زمانی که کامل شد، برای مشاهده رسید واریز به سایت بازگشت داده می‌شوید."
+
+#: irandargah-for-give.php:148
+msgid "Merchant ID"
+msgstr "کد مرچنت"
+
+#: irandargah-for-give.php:149
+msgid "Enter your Merchant ID."
+msgstr "کد مرچنت خود را وارد کنید."
+
+#: irandargah-for-give.php:213
+msgid "IranDargah Error"
+msgstr "خطای ایران درگاه"
+
+#: irandargah-for-give.php:215
+msgid "Unable to create a pending donation with Give."
+msgstr "امکان ایجاد سفارش پرداخت توسط Give وجود ندارد."
+
+#: irandargah-for-give.php:238
+#, php-format
+msgid "Unable to Connect to the Gateway [error: %s]"
+msgstr "امکان اتصال به درگاه وجود ندارد [خطا: %s]"
+
+#: irandargah-for-give.php:245
+#, php-format
+msgid "Unable to Connect to the IranDargah [message: %s]"
+msgstr "امکان اتصال به ایران درگاه وجود ندارد [پیام: %s]"
+
+#: irandargah-for-give.php:283
+#, php-format
+msgid "Payment Failed. The error is %s."
+msgstr "پرداخت ناموفق بود. دلیل خطا %s می‌باشد."
+
+#: irandargah-for-give.php:292
+msgid "Payment has been completed before."
+msgstr "پرداخت قبلا کامل شده است."
+
+#: irandargah-for-give.php:302
+msgid "Payment not found."
+msgstr "پرداخت یافت نشد."
+
+#: irandargah-for-give.php:310
+msgid "Payment gateway is not equal to the gateway in the database."
+msgstr "درگاه پرداخت با درگاه ثبت شده در دیتابیس یکسان نیست."
+
+#: irandargah-for-give.php:320
+msgid "Payment amount is not equal to the amount in the database."
+msgstr "مبلغ پرداختی با مبلغ ثبت شده در دیتابیس یکسان نیست."
+
+#: irandargah-for-give.php:341
+#, php-format
+msgid "IranDargah Payment Completed. The Transaction Id is %s."
+msgstr "پرداخت از طریق ایران درگاه، کامل شد. شماره تراکنش %s می‌باشد."
+
+#: irandargah-for-give.php:345
+#, php-format
+msgid "Transaction failed. Status: %s"
+msgstr "تراکنش ناموفق بود. وضعیت: %s"
+
+#. Plugin Name of the plugin/theme
+msgid "پرداخت آنلاین ایران درگاه برای Give"
+msgstr "پرداخت آنلاین ایران درگاه برای Give"
+
+#. Plugin URI of the plugin/theme
+msgid "https://irandargah.com/plugins/Wordpress/"
+msgstr "https://irandargah.com/plugins/Wordpress/"
+
+#. Description of the plugin/theme
+msgid ""
+"این افزونه، پرداخت آنلاین <a href=\"https://irandargah.com\">ایران درگاه</a> "
+"را برای افزونه‌ی Give فعال می‌کند."
+msgstr ""
+"این افزونه، پرداخت آنلاین <a href=\"https://irandargah.com\">ایران درگاه</a> "
+"را برای افزونه‌ی Give فعال می‌کند."
+
+#. Author URI of the plugin/theme
+msgid "https://irandargah.com"
+msgstr "https://irandargah.com"
+
+#~ msgid "Website Currency"
+#~ msgstr "ارز وب‌سایت"
+
+#~ msgid "Choose your website currency."
+#~ msgstr "نوع ارز وب‌سایت خود را انتخاب کنید."
+
+#~ msgid "IRT"
+#~ msgstr "تومان"
+
+#~ msgid "IRR"
+#~ msgstr "ریال"
+
+#~ msgid "Transaction canceled by user"
+#~ msgstr "تراکنش توسط کاربر لغو شد"
